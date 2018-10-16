@@ -26,4 +26,4 @@ Temporary Items
 _site/
 
 # Ruby
-Gemfile.lock
+#Gemfile.lock
