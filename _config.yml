@@ -1,0 +1,38 @@
+# Site settings
+title: "Blog Jaune Attitude"
+email: contact@jauneattitude.fr
+description: "Journal de bord d'un jaune entrepreneur Guadeloupéen"
+baseurl: ""
+url: "http://jauneattitude.fr/"
+title_description: "Journal de bord d'un jaune entrepreneur Guadeloupéen."
+title_image: "/logo-yellow2.png"
+google_analytics: "UA-47717247-7"
+disqus_account: jauneattitude
+github_repository: https://github.com/maco-jaune
+addthis_id: ra-5bc57b5c88351fc7
+post_limit: 6
+
+# Social usernames/URLs
+twitter_username:
+github_username:  macojaune
+instagram_username: macojaune
+reddit_username: 
+linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
+google_plus_link:
+stackoverflow_link:
+xing_link:
+facebook_link: http://facebook.com/marvinlpointcom
+
+# Footer
+footer_left: "Pondu avec <i class=\"fa fa-heart\"></i> par <a href=\"http://marvinl.com\">MarvinL.com</a>"
+footer_right: ""
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
