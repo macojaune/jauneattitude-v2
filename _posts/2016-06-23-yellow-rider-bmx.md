@@ -28,12 +28,6 @@ Les amateurs de sports roulants peuvent aller essayer c&rsquo;est gratuit et con
   <strong>Horaires : Mercredi et Samedi de 16 à 18H .</strong>
 </p>
 
-<div style="width: 546px" class="wp-caption aligncenter">
-  <img src="https://lh3.googleusercontent.com/fIGFKanmQaS80Vw17P4OZimVY_-UwAPX8uPqNhI5QfsyPf9UToJHkxpy0lzoOOVhPIR8vL68wXTyEan8zfHKb79xi2PJQbsSSa5Dh4mjlm3kyEQQeYs0fNTfI12ckOzzhiwWQcXuQpzHvgaCPovWepyGLIRUzMIYoBD67hIdYv8gG06JDGxgMmLRxsXiCY-6n01g9CGknftH5D_439H45Mjsyzn4Vs_Rt-_8WVdXHa77SlUlGFK_vqLm_t1evrWP_VTGxDKZ60AvVxbMBZNHnSw52mIarG5F0mfJh6o7CtSzhHem-QIYrfohB5H6zSW_CzLwsGhF5i1vZ6YORMQ0hlWJYeDxHYenCzo6Q6vey8qrTJmPrAUnegH6gmz4LIhB7mGt01tIHdQPkH4CXuC1UOQLvOnDXLzUiQTmbguvGhRAPDJSldU2cpVhftPE0bBT3_R7OGHNIq97hVzlAdLDrVRVpcHIfD50c0rNcfm-rMompl0J9ZLadKEU_-o6QFKDZGU_XS8txDIpM1ZxlqbOQj-zVhJwLWE2Gw1gr7DTSIL7TG4g8BhYQyGytg_l4bgzD3TuSSt9MVVeg22LBBYwkt89QeX5v60j=w537-h953-no" width="536" height="953" />
-  
-  <p class="wp-caption-text">
-    Je ne mettrais qu&rsquo;une photo parce que je n&rsquo;étais pas au top de la Sexyness, ( mais vraiment pas !)
-  </p>
-</div>
+Je ne mettrais qu&rsquo;une photo parce que je n&rsquo;étais pas au top de la Sexyness, ( mais vraiment pas !)
 
-&nbsp;
+![photo](https://lh3.googleusercontent.com/fIGFKanmQaS80Vw17P4OZimVY_-UwAPX8uPqNhI5QfsyPf9UToJHkxpy0lzoOOVhPIR8vL68wXTyEan8zfHKb79xi2PJQbsSSa5Dh4mjlm3kyEQQeYs0fNTfI12ckOzzhiwWQcXuQpzHvgaCPovWepyGLIRUzMIYoBD67hIdYv8gG06JDGxgMmLRxsXiCY-6n01g9CGknftH5D_439H45Mjsyzn4Vs_Rt_8WVdXHa77SlUlGFK_vqLm_t1evrWP_VTGxDKZ60AvVxbMBZNHnSw52mIarG5F0mfJh6o7CtSzhHem-QIYrfohB5H6zSW_CzLwsGhF5i1vZ6YORMQ0hlWJYeDxHYenCzo6Q6vey8qrTJmPrAUnegH6gmz4LIhB7mGt01tIHdQPkH4CXuC1UOQLvOnDXLzUiQTmbguvGhRAPDJSldU2cpVhftPE0bBT3_R7OGHNIq97hVzlAdLDrVRVpcHIfD50c0rNcfm-rMompl0J9ZLadKEU_-o6QFKDZGU_XS8txDIpM1ZxlqbOQj-zVhJwLWE2Gw1gr7DTSIL7TG4g8BhYQyGytg_l4bgzD3TuSSt9MVVeg22LBBYwkt89QeX5v60j=w537-h953-no)

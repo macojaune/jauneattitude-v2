@@ -24,13 +24,7 @@ tags:
   
 _(Salut à notre ami [LDLC](http://quilivreou.fr/ldlc/) pour la rapidité)_
 
-<div id="attachment_13" style="width: 4154px" class="wp-caption aligncenter">
-  <img class="wp-image-13 size-full" src="http://jauneattitude.marvinl.com/uploads/2016/06/claviers.jpg" alt="claviers" width="4144" height="2988" srcset="http://jauneattitude.fr/uploads/2016/06/claviers.jpg 4144w, http://jauneattitude.fr/uploads/2016/06/claviers-300x216.jpg 300w, http://jauneattitude.fr/uploads/2016/06/claviers-768x554.jpg 768w, http://jauneattitude.fr/uploads/2016/06/claviers-1024x738.jpg 1024w, http://jauneattitude.fr/uploads/2016/06/claviers-400x288.jpg 400w" sizes="(max-width: 4144px) 100vw, 4144px" />
-  
-  <p class="wp-caption-text">
-    Disposition des claviers
-  </p>
-</div>
+![Disposition des claviers](/uploads/2016/06/claviers.jpg)
 
 La frappe à dix doigts mixée à l&rsquo;apprentissage de la nouvelle disposition c&rsquo;est à la fois un sport mental et physique… Et oui je découvre avec émotions que certains de mes doigts n&rsquo;étaient pas du tout habitués à bouger de la sorte. D’ailleurs je viens de taper ces quelques lignes et j’ai l’impression d’avoir rédigé une thèse.
 
@@ -60,12 +54,6 @@ Devinez quoi ?? Ça y est ! Je l’ai.
 
 Oui vous avez déjà lu ça plus haut, mais la c’est plus puissant et je tiens à remercier Leboncoin qui m’a permis de trouver et d’acheter le fauteuil de bureau comme je voulais. Tenez-vous bien, elle a été achetée en janvier 2016 donc très bon état, et surtout elle ne m’a couté que **80€** ! Vous avez bien lu, pour vous dire je n’ai même pas voulu marchander, surtout qu’on me l’avait annoncée à plus de 400€ en magasin.
 
-<div style="width: 330px" class="wp-caption aligncenter">
-  <img class="" src="http://media.top-office.com/media/catalog/product/cache/all/image/320x260/9df78eab33525d08d6e5fb8d27136e95/1/2/123727.jpg" width="320" height="260" />
-  
-  <p class="wp-caption-text">
-    Modèle ressemblant
-  </p>
-</div>
+[Modèle ressemblant](http://media.top-office.com/media/catalog/product/cache/all/image/320x260/9df78eab33525d08d6e5fb8d27136e95/1/2/123727.jpg)
 
 Voilà voilà je suis content les économies vont me permettre de changer mes lunettes, car oui cela aussi rentre dans la catégorie ergonomie mais on le garde pour un autre article.

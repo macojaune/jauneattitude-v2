@@ -28,25 +28,19 @@ Qu’est-ce que c’est ? On y vient n’ayez crainte.
   
 D’abord un petit point historique est de rigueur. Avez-vous connu dans votre jeunesse, l’invention qui a changé le court de l’histoire ? Non pas celle-ci, voilà !
 
-<div id="attachment_22" style="width: 1510px" class="wp-caption aligncenter">
-  <img class="img--responsive wp-image-22 size-full" src="http://jauneattitude.fr/uploads/2016/06/typemachine-yellow.jpg" width="1500" height="1125" srcset="http://jauneattitude.fr/uploads/2016/06/typemachine-yellow.jpg 1500w, http://jauneattitude.fr/uploads/2016/06/typemachine-yellow-300x225.jpg 300w, http://jauneattitude.fr/uploads/2016/06/typemachine-yellow-768x576.jpg 768w, http://jauneattitude.fr/uploads/2016/06/typemachine-yellow-1024x768.jpg 1024w, http://jauneattitude.fr/uploads/2016/06/typemachine-yellow-400x300.jpg 400w" sizes="(max-width: 1500px) 100vw, 1500px" />
-  
-  <p class="wp-caption-text">
-    Machine à écrire
-  </p>
-</div>
+![Machine à écrire](/uploads/2016/06/typemachine-yellow.jpg)
 
 Celle-là… **la machine à écrire** !
 
-Je ne vais pas spécialement rentrer dans les détails, mais plutôt vous conseiller ce webzine vraiment bien fait (bien qu&rsquo;en anglais) sous forme de comics et très ludique : <a href="http://issuu.com/longstreth/docs/thedvorakzine/1?e=0" target="_blank">Webzine</a>.
+Je ne vais pas spécialement rentrer dans les détails, mais plutôt vous conseiller ce webzine vraiment bien fait (bien qu&rsquo;en anglais) sous forme de comics et très ludique : [Webzine](http://issuu
+.com/longstreth/docs/thedvorakzine/1?e=0).
   
 Vous pourrez y comprendre l’origine de notre bon vieux clavier dit azerty, ou qwerty pour les anglophones. Et pourquoi il n’a pas évolué depuis sa création, à l’inverse de tous les autres composants de nos ordinateurs. Et surtout pourquoi il n’est pas du tout adapté à la frappe moderne, et encore moins à celle du français.
 
 J’ai donc cherché et scruté tout un tas de blog et de vidéos pour bien comprendre les choses. Et ai fini par craquer en achetant un clavier TypeMatrix, qui est arrivé en Guadeloupe aujourd’hui, mais que je ne pourrais récupérer que lundi car nous sommes samedi et on le sait ici, un avis de passage qui arrive le samedi c’est mauvais ! Donc par un après-midi d’ennui profond j’ai décidé de me lancer dans la frappe, je pourrais ainsi m’exercer à dompter ce clavier et cette disposition et évidemment je vous tiendrais au jus.
 
-<p style="text-align: left;">
-  Ah oui j&rsquo;oubliais de répondre au pourquoi, tout d&rsquo;abord, c&rsquo;est mon tout premier prof à SUPINFO qui m&rsquo;a mis sur cette voie, c&rsquo;était le cliché du geek ! Il ne jurais que par linux et avait ce même clavier… sauf que ses touches étaient blanches, oui toutes blanches sans aucune inscription et il tapait aussi, voire, plus vite que nous.
-</p>
+
+Ah oui j&rsquo;oubliais de répondre au pourquoi, tout d&rsquo;abord, c&rsquo;est mon tout premier prof à SUPINFO qui m&rsquo;a mis sur cette voie, c&rsquo;était le cliché du geek ! Il ne jurais que par linux et avait ce même clavier… sauf que ses touches étaient blanches, oui toutes blanches sans aucune inscription et il tapait aussi, voire, plus vite que nous.
 
 En gros, actuellement j&rsquo;avais envie de changement donc pourquoi pas changer de clavier pour du différent ?? Voila où nous en sommes.
 
