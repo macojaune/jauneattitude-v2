@@ -45,21 +45,21 @@ layout: default
             {% endif %}
           </span>
 					{% endif %}
-					on <span itemprop="datePublished" content="2014-08-28">{{ page.date | date: "%B %-d, %Y" }}</span>
-					{% if page.categories != empty %} under {% for category in page.categories limit:1 %}{{ category }}{% endfor %}{% endif %}
+					le <span itemprop="datePublished" content="2014-08-28">{{ page.date | date: "%B %-d, %Y" }}</span>
+					{% if page.categories != empty %} dans {% for category in page.categories limit:1 %}{{ category }}{% endfor %}{% endif %}
 				</i></small>
 			</div>
 			
 			<div class="read-time">
 				<small>
-					{{ minutes }} minute read
+					Environ {{ minutes }} minute{% if minutes > 1 %}s{% endif %} de lecture
 				</small>
 			</div>
 			
 			<div class="content-panel content">
 				
 				{% if page.series %}
-				This post is part of the series '{{ page.series }}':
+				Cet article est une partie de la série '{{ page.series }}':
 				<ol class="series">
 					{% for apost in site.posts reversed %}
 					{% if page.series == apost.series %}
