@@ -20,7 +20,7 @@ Si vous lisez ceci vous devez déja savoir ce qu&rsquo;est le «mouvement» napp
     
 On pourrait commencer par les différentes catégories de cheveux, ils font beaucoup de bruit sur Twitter comme tout ce qui peut être hiérarchisé et pris à parti…bref, je vous ai trouvé une photo parlante :
 
-![curl patterns](http://zenzele.us/uploads/2014/07/curl_pattern.jpg)
+{% cdn_img http://zenzele.us/uploads/2014/07/curl_pattern.jpg %}
     
 Selon les filles c&rsquo;est plutôt correct comme exemple.
 A partir de maintenant si vous entendez votre douce dire gentiment : <em>«cette c*nne de 2B a voulu contester avec moi que les produits XYZ ne sont pas bons pour mon 4B, elle est folle, j&rsquo;ai failli la baffer !»</em>  à son amie via Telegram <del><em>(boycott Whatsapp)</em></del>, vous comprendrez. (Ne me remerciez pas les gars 😉 )

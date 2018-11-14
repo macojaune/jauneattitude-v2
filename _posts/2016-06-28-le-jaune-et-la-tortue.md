@@ -14,7 +14,7 @@ categories:
 ---
 Hier Je discutais avec un ami (son blog Je suis riche, Je le sais) et il me partageait un passage d&rsquo;un de ses livres du moment, **« L&rsquo;homme le plus riche de Babylone »**. (prochain achat livre)
 
-![L'homme le plus riche de babylone](http://businessmalin.fr/uploads/2016/03/l-homme-le-plus-riche-de-babylone.jpg)
+{% cdn_img http://businessmalin.fr/uploads/2016/03/l-homme-le-plus-riche-de-babylone.jpg %}
   
 Il expose 4 types de travailleurs, Lièvres, Hiboux, Tortues, Écureuils.
   

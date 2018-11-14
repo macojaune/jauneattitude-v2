@@ -24,7 +24,7 @@ tags:
   
 _(Salut à notre ami [LDLC](http://quilivreou.fr/ldlc/) pour la rapidité)_
 
-![Disposition des claviers](/uploads/2016/06/claviers.jpg)
+{% cdn_img  /uploads/2016/06/claviers.jpg %}
 
 La frappe à dix doigts mixée à l&rsquo;apprentissage de la nouvelle disposition c&rsquo;est à la fois un sport mental et physique… Et oui je découvre avec émotions que certains de mes doigts n&rsquo;étaient pas du tout habitués à bouger de la sorte. D’ailleurs je viens de taper ces quelques lignes et j’ai l’impression d’avoir rédigé une thèse.
 

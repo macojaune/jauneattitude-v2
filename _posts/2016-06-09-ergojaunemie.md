@@ -28,7 +28,7 @@ Qu’est-ce que c’est ? On y vient n’ayez crainte.
   
 D’abord un petit point historique est de rigueur. Avez-vous connu dans votre jeunesse, l’invention qui a changé le court de l’histoire ? Non pas celle-ci, voilà !
 
-![Machine à écrire](/uploads/2016/06/typemachine-yellow.jpg)
+{% cdn_img Machine à écrire](/uploads/2016/06/typemachine-yellow.jpg %}
 
 Celle-là… **la machine à écrire** !
 
