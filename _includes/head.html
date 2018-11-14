@@ -2,11 +2,18 @@
 	<meta charset="utf-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+	<!--Facebook meta-->
 	<meta content="{{ site.title }}" property="og:site_name">
+	<!--Twitter meta-->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@jauneattitude">
+	<meta name="twitter:creator" content="@shewa66">
 	{% if page.title %}
 	<meta content="{{ page.title }}" property="og:title">
+	<meta name="twitter:title" content="{{page.title}}">
 	{% else %}
 	<meta content="{{ site.title }}" property="og:title">
+	<meta name="twitter:title" content="{{site.title}}">
 	{% endif %}
 	{% if page.title %}
 	<meta content="article" property="og:type">
@@ -15,8 +22,10 @@
 	{% endif %}
 	{% if page.description %}
 	<meta content="{{ page.description }}" property="og:description">
+	<meta name="twitter:description" content="{{page.description}}">
 	{% else %}
 	<meta content="{{ site.description }}" property="og:description">
+	<meta name="twitter:description" content="{{site.description}}">
 	{% endif %}
 	{% if page.url %}
 	<meta content="{{ site.url }}{{ page.url }}" property="og:url">
@@ -27,8 +36,10 @@
 	{% endif %}
 	{% if page.image %}
 	<meta content="https://afs08o4in.cloudimg.io/cdn/n/n/http://marvinl.com/cloud_images/{{ page.image }}" property="og:image">
+	<meta name="twitter:image" content="https://afs08o4in.cloudimg.io/cdn/n/n/http://marvinl.com/cloud_images/{{ page.image }}">
 	{% else %}
 	<meta content="{{site.title_image}}" property="og:image">
+	<meta name="twitter:image" content="{{ site.title_image }}">
 	{% endif %}
 	{% if page.categories %}
 	{% for category in page.categories limit:1 %}
