@@ -2,7 +2,7 @@
 id: 8
 title: Yellow World !
 date: 2016-06-04T20:00:38+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.marvinl.com/?p=8
 permalink: /yellow-world/

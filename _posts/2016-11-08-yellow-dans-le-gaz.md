@@ -2,7 +2,7 @@
 id: 120
 title: Yellow dans le gaz
 date: 2016-11-08T00:33:44+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.fr/?p=120
 permalink: /yellow-dans-le-gaz/

@@ -2,7 +2,7 @@
 id: 152
 title: 'J&rsquo;ai vu jaune !'
 date: 2017-06-01T11:01:02+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.fr/?p=152
 permalink: /jai-vu-jaune/

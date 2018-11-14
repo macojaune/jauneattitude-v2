@@ -2,7 +2,7 @@
 id: 170
 title: The Yellow Shooter
 date: 2017-05-30T13:36:56+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.fr/?p=170
 permalink: /the-yellow-shooter/

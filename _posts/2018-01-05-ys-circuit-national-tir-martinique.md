@@ -2,7 +2,7 @@
 id: 258
 title: '[Yellow Shooter] Circuit national Martinique'
 date: 2018-01-05T15:18:40+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.fr/?p=258
 permalink: /ys-circuit-national-tir-martinique/

@@ -2,7 +2,7 @@
 id: 12
 title: ErgoJaunemie
 date: 2016-06-09T22:30:18+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.marvinl.com/?p=12
 permalink: /ergojaunemie/

@@ -2,7 +2,7 @@
 id: 206
 title: Le maco jaune lance son podcast !
 date: 2018-04-11T13:28:44+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.fr/?p=206
 permalink: /le-maco-jaune-lance-son-podcast/

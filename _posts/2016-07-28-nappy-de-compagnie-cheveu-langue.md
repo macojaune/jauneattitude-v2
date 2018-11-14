@@ -2,7 +2,7 @@
 id: 77
 title: '[Nappy de compagnie] Un cheveu sur la langue ?'
 date: 2016-07-28T17:17:21+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.fr/?p=77
 permalink: /nappy-de-compagnie-cheveu-langue/

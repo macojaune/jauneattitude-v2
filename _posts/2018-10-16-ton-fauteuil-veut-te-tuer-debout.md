@@ -1,15 +1,9 @@
 ---
-id: 269
 title: Ton fauteuil veut te tuer. Debout !
 date: 2018-10-16T12:05:28+00:00
 author: marvinL
 layout: post
-guid: http://jauneattitude.fr/?p=269
 permalink: /ton-bureau-veut-te-tuer-debout/
-xyz_fbap:
-  - "1"
-xyz_fbap_insert_og:
-  - "1"
 image: /uploads/2018/10/samule-sun-645270-unsplash.jpg
 categories:
   - Ergonomie
@@ -38,7 +32,7 @@ Tout simplement parce que j'ai pu constater en observant les générations préc
 
 Surement un schéma de pensée hérité de leurs aïeuls, passant leurs journées à l'usine ou dans les champs.
 
-![Future](/uploads/2018/11/martin-sanchez-647743-unsplash.jpg){:style="width:50%;float: right"}
+{% cdn_img /uploads/2018/11/martin-sanchez-647743-unsplash.jpg width:50%;float:right; %}
 En 2018, je penses qu'il est temps de changer cette ère. Le travail est un choix, notre vocation est un choix et nous avons la chance de vivre dans un système où on peut encore dire *«Stop, je ne 
 suis pas à l'aise, je préfères ceci, cela…»* 
 
@@ -68,13 +62,13 @@ Pour cela il faudra, soit utiliser les repose-bras de ton fauteuil, si il en a (
 
 Soit avancer ton clavier suffisamment pour qu'une bonne partie (plus de la moitié) de tes avant-bras puissent reposer sur le bureau.
 
-![Laptop](/uploads/2018/11/rawpixel-620232-unsplash.jpg)
+{% cdn_img /uploads/2018/11/rawpixel-620232-unsplash.jpg %}
 
 T’inquiètes, si en faisant ça tes pieds ne touchent pas le sol, il suffira de corriger la hauteur avec un repose pied (tout objet pouvant supporter tes pieds fera l'affaire).
 
 Pour les jambes, le mieux est que les hanches soient un niveau au dessus des genoux. Le plus reposé possible.
 
-![lady](/uploads/2018/11/dane-deaner-272368-unsplash.jpg){:style="width:60%;float: right"}
+{% cdn_img /uploads/2018/11/dane-deaner-272368-unsplash.jpg width:60%;float:right; %}
 Mesdames, les talons hauts, sont aussi pratiques debout qu'assis (c-à-d pas pratique, du tout). Si vous passez la majeure partie de votre journée assises. Il serait judicieux d'avoir une paire de chaussure pour le "bureau".
 
 Perso, je suis régulièrement en chaussettes sous mon bureau. À quoi bon garder des chaussures si on marche pas ?
@@ -85,14 +79,14 @@ Oui, ça parait logique mais ce n'est pas souvent le cas dans la pratique.
 
 Ensuite viendra le réglage de l'inclinaison pour que ton dos soit soutenu, dans une position neutre. Ni trop "couché", ni trop droit ou incliné vers l'avant pour que ce soit confortable et productif. (La sieste c'est pour plus tard).
 
-![Table](/uploads/2018/11/chris-spiegl-614973-unsplash.jpg)
+{% cdn_img /uploads/2018/11/chris-spiegl-614973-unsplash.jpg %}
 En parlant de repos, l'une des clés à retenir pour résister aux attaques de votre bureau, réside dans les pauses répétées.
 
 Oui, je sais que tu as beaucoup de boulot (regarder toutes les vidéos sur facebook, c’est énorme). En plus tes supérieurs attendent du résultat. 
 
 Mais est-ce que t’es obligé d'être assis non stop devant ton écran pour être efficace ? J'en doute fortement.
 
-![Pomodoro](/uploads/2018/11/marcelo-leal-483685-unsplash.jpg){:style="width:50%;float: left"}
+{% cdn_img /uploads/2018/11/marcelo-leal-483685-unsplash.jpg width:50%;float:left; %}
 Il existe une technique que j'aime beaucoup et avec laquelle j'ai de très bons résultats. c'est la technique **POMODORO**.
 
 En bref, elle consiste à enchainer des périodes de 25 minutes (max.) de travail sans distractions, et des périodes de pauses de 5 à 15 minutes.
@@ -116,7 +110,7 @@ Dans cet article j'aurais parlé de ton fauteuil de bureau, car c'est l'élémen
 
 ### Debout
 
-![Standup desk](/uploads/2018/11/standup.jpg)
+{% cdn_img /uploads/2018/11/standup.jpg %}
 
 Oui c'est possible et recommandé toujours pour le côté dynamique.J'ai remarqué que je suis plus actif en position debout. Associé à la technique Pomodoro et j'enchaine les tâches à vitesse grand V.
 
@@ -126,7 +120,7 @@ Il y a aussi d'autres types d'assises, comme
 Qui permettent de conserver du mouvement même en étant assis. Utilisée de la bonne manière évidemment, car la hauteur d'assise étant réduite il faut adapter le poste de travail en conséquence.
 
 ### Les sièges dits "genoux”
-![Future](/uploads/2018/11/ergo.jpg){:style="width:20%;float: left"}
+{% cdn_img /uploads/2018/11/ergo.jpg width:20%;float:left; %}
 Une position proche du pilote de moto GP.
 Le principe est d'équilibrer le poids du corps entre les fesses et les genoux, conseillé pour ceux qui ont déjà des problèmes lombaires.
 Elle peut surement permettre de les éviter.
@@ -141,6 +135,6 @@ Oser essayer, oser demander, oser remettre en question les choses que l'on trouv
 
 PS: Si cela fait 10 ans que tu as le même fauteuil de bureau, laisse le se reposer, achètes-en un nouveau, meilleur. 
 
-Le prix sera toujours inférieur à celui de la vie. Ta vie.
+<center>Le prix sera toujours inférieur à celui de la vie. Ta vie.</center>
 
 Merci pour ton précieux temps.

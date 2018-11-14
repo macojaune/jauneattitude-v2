@@ -2,7 +2,7 @@
 id: 193
 title: Sur la route de briques jaunes
 date: 2017-11-10T09:42:45+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.fr/?p=193
 permalink: /route-de-briques-jaunes/

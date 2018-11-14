@@ -2,7 +2,7 @@
 id: 109
 title: 'Yellow&rsquo;cation'
 date: 2016-09-08T11:15:04+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.fr/?p=109
 permalink: /yellowcation/

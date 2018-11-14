@@ -2,7 +2,7 @@
 id: 51
 title: Jaune veux pas travailler
 date: 2016-06-27T12:00:02+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.fr/?p=51
 permalink: /jaune-veux-travailler/

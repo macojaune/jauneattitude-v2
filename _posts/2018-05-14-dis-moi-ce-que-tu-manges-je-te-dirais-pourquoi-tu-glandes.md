@@ -2,7 +2,7 @@
 id: 251
 title: Dis moi ce que tu manges et je te dirais pourquoi tu glandes
 date: 2018-05-14T10:50:48+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.fr/?p=251
 permalink: /dis-moi-ce-que-tu-manges-je-te-dirais-pourquoi-tu-glandes/

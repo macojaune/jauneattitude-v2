@@ -2,7 +2,7 @@
 id: 28
 title: Indiana Jaune
 date: 2016-06-14T11:00:46+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.marvinl.com/?p=28
 permalink: /indiana-jaune/

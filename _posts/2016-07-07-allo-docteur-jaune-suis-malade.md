@@ -2,7 +2,7 @@
 id: 62
 title: Allô Docteur ? Jaune suis malade
 date: 2016-07-07T10:00:21+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.fr/?p=62
 permalink: /allo-docteur-jaune-suis-malade/

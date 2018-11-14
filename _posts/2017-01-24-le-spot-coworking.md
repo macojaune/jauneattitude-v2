@@ -2,7 +2,7 @@
 id: 163
 title: Jaune Comme Brice
 date: 2017-01-24T16:13:42+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.fr/?p=163
 permalink: /le-spot-coworking/

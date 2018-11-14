@@ -8,7 +8,8 @@
 </div>
 
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
 <script src="{{ site.baseurl }}/js/jquery.mmenu.min.all.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.7/highlight.min.js"></script>
 <script>hljs.initHighlightingOnLoad()</script>
@@ -20,6 +21,17 @@
 		$(".menu-button").click(function () {
 			$(".menu-button").hide()
 			$("#my-menu").trigger("open.mm")
+		})
+	})
+</script>
+<!--Cloudimage-->
+<script src="https://scaleflex-global.airstore.io/cloudimg/responsive/cloudimage.plugin.min.js"></script>
+
+<script type="text/javascript">
+	document.addEventListener("DOMContentLoaded", function () {
+		jScaler.process({
+			TOKEN: "afs08o4in",                    // required
+		  BASE_URL: 'http://marvinl.com/cloud_images/'
 		})
 	})
 </script>

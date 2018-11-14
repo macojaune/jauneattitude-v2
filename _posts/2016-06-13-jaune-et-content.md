@@ -2,7 +2,7 @@
 id: 18
 title: Jaune et content
 date: 2016-06-13T12:36:30+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.marvinl.com/?p=18
 permalink: /jaune-et-content/

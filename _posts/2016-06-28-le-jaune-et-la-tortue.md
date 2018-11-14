@@ -2,7 +2,7 @@
 id: 55
 title: Le Jaune et la Tortue
 date: 2016-06-28T12:00:15+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.fr/?p=55
 permalink: /le-jaune-et-la-tortue/

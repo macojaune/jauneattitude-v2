@@ -1,15 +1,9 @@
 ---
-id: 264
 title: Il me reste 90 jours pour démissionner.
 date: 2018-10-13T20:16:50+00:00
-author: admin
+author: MarvinL
 layout: post
-guid: http://jauneattitude.fr/?p=264
 permalink: /90-jours-pour-demissionner/
-xyz_fbap:
-  - "1"
-xyz_fbap_insert_og:
-  - "1"
 image: /uploads/2018/10/i-quit-5b525e-e1539476090996.jpg
 categories:
   - Business

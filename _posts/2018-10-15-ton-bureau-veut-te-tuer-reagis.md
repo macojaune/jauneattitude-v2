@@ -1,20 +1,14 @@
 ---
-id: 268
 title: Ton bureau veut te tuer. Réagis !
 date: 2018-10-15T12:05:28+00:00
-author: admin
+author: MarvinL
 layout: post
-guid: http://jauneattitude.fr/?p=268
 permalink: /ton-bureau-veut-te-tuer-reagis/
-xyz_fbap:
-  - "1"
-xyz_fbap_insert_og:
-  - "1"
 image: /uploads/2018/10/bad_posture_resized.jpg
 categories:
   - Ergonomie
 ---
-Cou raide, mal de dos, épaules douloureuses, poignet engourdi, jambes lourdes… Un de ces symptômes te rappellent quelque chose ?
+Cou raide, mal de dos, épaules douloureuses, poignet engourdi, jambes lourdes… Un de ces symptômes te rappelle quelque chose ?
 
 Travailleur du monde moderne, tout comme moi, ton ordinateur est surement l&rsquo;outil sur lequel tu passes le plus de temps.
   

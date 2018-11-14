@@ -2,7 +2,7 @@
 id: 188
 title: Yellographie
 date: 2017-09-04T09:47:12+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.fr/?p=188
 permalink: /yellographie/

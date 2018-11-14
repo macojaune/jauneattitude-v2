@@ -2,7 +2,7 @@
 id: 215
 title: MangezBouffez.FR
 date: 2018-04-18T12:16:48+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.fr/?p=215
 permalink: /mangezbouffez-fr/

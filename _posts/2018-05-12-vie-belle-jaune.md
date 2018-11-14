@@ -2,7 +2,7 @@
 id: 244
 title: La vie est belle et jaune
 date: 2018-05-12T11:31:02+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.fr/?p=244
 permalink: /vie-belle-jaune/

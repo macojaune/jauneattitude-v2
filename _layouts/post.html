@@ -19,7 +19,7 @@ layout: default
 			{% elsif page.image %}
 			<div class="row">
 				<div class="col text-center">
-					<img class="img-fluid" src="{{page.image}}" alt="Image: {{page.title}}">
+					<img class="img-fluid" ci-src="{{page.image}}" alt="Image: {{page.title}}">
 				</div>
 			</div>
 			{% elsif page.thumbnail %}
@@ -32,15 +32,15 @@ layout: default
 			<div class="author">
 				<small><i>
 					{% if page.author %}
-					by
+					par
 					<span itemprop="author">
-            {% if site.google_plus_link %}
-              <a rel="author" href="{{ site.google_plus_link }}">
+            {% if site.facebook_link %}
+              <a rel="author" href="{{ site.facebook_link }}" target="_blank">
             {% endif %}
             <span itemprop="author" itemscope itemtype="http://schema.org/Person">
               <span itemprop="name">{{ page.author }}</span>
             </span>
-            {% if site.google_plus_link %}
+            {% if site.facebook_link %}
               </a>
             {% endif %}
           </span>

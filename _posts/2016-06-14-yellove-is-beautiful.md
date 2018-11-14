@@ -2,7 +2,7 @@
 id: 38
 title: '[Nappy de compagnie] Yello&rsquo;ve is Beautiful'
 date: 2016-06-14T20:35:36+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.fr/?p=38
 permalink: /yellove-is-beautiful/

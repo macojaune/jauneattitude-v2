@@ -2,7 +2,7 @@
 id: 236
 title: Komodo IDE v11 : Un logo Jaune ok, mais est-il efficace ?
 date: 2018-05-10T14:35:58+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.fr/?p=236
 permalink: /komodo-ide-v11-logo-jaune-ok-efficace/

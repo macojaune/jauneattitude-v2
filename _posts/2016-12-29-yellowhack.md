@@ -2,7 +2,7 @@
 id: 127
 title: 'Yellow&rsquo;Hack'
 date: 2016-12-29T19:29:26+00:00
-author: admin
+author: MarvinL
 layout: post
 guid: http://jauneattitude.fr/?p=127
 permalink: /yellowhack/
