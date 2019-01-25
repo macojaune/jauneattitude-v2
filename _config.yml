@@ -24,8 +24,7 @@ xing_link:
 facebook_link: http://facebook.com/marvinlpointcom
 
 # Footer
-footer_left: "Pondu avec <i class=\"fa fa-heart\"></i> par <a href=\"http://marvinl.com\">MarvinL.com</a>"
-footer_right: ""
+footer_center: "Pondu avec <i class=\"fa fa-heart\"></i> par <a href=\"http://marvinl.com\">MarvinL.com</a>"
 
 # Build settings
 markdown: kramdown
