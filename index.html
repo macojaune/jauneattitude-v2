@@ -26,7 +26,7 @@ make-smaller-titles: true
 					
 					<li>
 						<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-						<small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
+						<small class="hidden-xs">{% include date.html date=post.date %}</small>
 					</li>
 					
 					{% endfor %}
@@ -40,7 +40,7 @@ make-smaller-titles: true
 	<div class="row">
 		<div class="col main content-panel">
 			<div class="articles">
-				<h2><a href="/categories">Les catégories</a></h2>
+				<h2>Les catégories</h2>
 				
 				<div class="row">
 					{% for category in site.categories %}

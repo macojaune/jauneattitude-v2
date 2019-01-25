@@ -45,7 +45,7 @@ layout: default
             {% endif %}
           </span>
 					{% endif %}
-					le <span itemprop="datePublished" content="2014-08-28">{{ page.date | date: "%B %-d, %Y" }}</span>
+					le <span itemprop="datePublished" content="{{page.date}}">{% include date.html date=page.date %}</span>
 					{% if page.categories != empty %} dans {% for category in page.categories limit:1 %}{{ category }}{% endfor %}{% endif %}
 				</i></small>
 			</div>
