@@ -1,12 +1,12 @@
 ---
-title: Est-il en vie ?
+title: 'Est-il en vie ?'
 date: 2019-05-21T11:30:00+00:00
 author: MarvinL
 layout: post
 permalink: /est-il-en-vie
 image: uploads/2019/05/frank-park-392-unsplash.jpg
 categories:
-  - JauneVie
+ - JauneVie
 ---
 
 Ça fait _(très)_ longtemps que je n'ai écrit d'article par ici… pourquoi ? 
