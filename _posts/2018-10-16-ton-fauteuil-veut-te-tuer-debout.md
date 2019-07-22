@@ -3,7 +3,7 @@ title: Ton fauteuil veut te tuer. Debout !
 date: 2018-10-16T12:05:28+00:00
 author: marvinL
 layout: post
-permalink: /ton-bureau-veut-te-tuer-debout/
+permalink: /ton-fauteuil-veut-te-tuer-debout/
 image: /uploads/2018/10/samule-sun-645270-unsplash.jpg
 categories:
   - Ergonomie
