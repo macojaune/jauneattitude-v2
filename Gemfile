@@ -6,5 +6,3 @@ git_source(:github) {|repo_name| "https://github.com/macojaune/jauneattitude-v2"
 
 # gem "rails"
 gem "jekyll"
-
-
