@@ -80,6 +80,6 @@ pratiques dès le départ.
 
 La vie est un apprentissage constant ! Je suis bien content de pouvoir apprendre encore et encore…
 
-Allez je vais me mettre au boulot _(ou pas)_
+Allez je vais me mettre au boulot. _(ou pas)_
 
-[Photo by Jo Szczepanska on Unsplash](https://unsplash.com/photos/lCYoIM-fbuU)
+[Photo de Jo Szczepanska via Unsplash](https://unsplash.com/photos/lCYoIM-fbuU)
