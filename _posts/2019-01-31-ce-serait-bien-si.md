@@ -6,10 +6,8 @@
  permalink: /ce-serait-bien-si
  image: uploads/2019/08/ross-findon-mG28olYFgHI-unsplash.jpg
  categories:
-   - MarvinL.com
    - Business
-   - Innovation
----
+   ---
 **EDITO**  
 _J'ai écrit ce texte sur facebook après une anecdote dont je ne me souviens même plus à l'heure actuelle. C'est toujours d'actualité et ça mérite d'attérir sur mon blog.
 Je suis en train de réfléchir à une offre pour aider les petites entreprises et jeunes pousses à s'affirmer sur le marché local.  
