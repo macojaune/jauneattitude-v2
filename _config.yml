@@ -1,16 +1,16 @@
 # Site settings
-title: "Blog Jaune Attitude"
+title: "Jaune Attitude"
 email: contact@jauneattitude.fr
-description: "Journal de bord d'un jaune entrepreneur Guadeloupéen"
+description: "Le blog du MacoJaune - Curieux, Entreprenant et Ambitieux, pensées et tribulations d'un jaune guadeloupéen."
 baseurl: ""
 url: "http://jauneattitude.fr/"
-title_description: "Journal de bord d'un jaune entrepreneur Guadeloupéen."
+title_description: "Le blog du MacoJaune - Journal de bord d'un jaune Guadeloupéen."
 title_image: "/logo-yellow2.png"
 google_analytics: "UA-47717247-7"
 disqus_account: "jauneattitude"
-github_repository: https://github.com/maco-jaune
+github_repository: https://github.com/macojaune
 addthis_id: ra-5bc57b5c88351fc7
-post_limit: 6
+post_limit: 12
 
 # Social usernames/URLs
 twitter_username: macojaune
