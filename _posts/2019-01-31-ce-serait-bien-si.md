@@ -13,10 +13,11 @@
 **EDITO**  
 _J'ai écrit ce texte sur facebook après une anecdote dont je ne me souviens même plus à l'heure actuelle. C'est toujours d'actualité et ça mérite d'attérir sur mon blog.
 Je suis en train de réfléchir à une offre pour aider les petites entreprises et jeunes pousses à s'affirmer sur le marché local.  
-Histoire de mettre a profit le flot d'idées que j'ai en permanence.
+Histoire de mettre a profit le flot d'idées que j'ai en permanence._
 
-**N'hésite pas à me laisser un commentaire si tu veux discuter d'une de tes problématiques du moment.**_
+___N'hésite pas à me laisser un commentaire si tu veux discuter d'une de tes problématiques du moment.___
 
+# "Ce serait vraiment bien si…"
 Le succès de la majorité des "startups" que vous connaissez réside dans le fait d'écouter ses utilisateurs/clients afin d'affiner le produit/service proposé initialement.
  _(pas uniquement, bien sûr, c'est un raccourci volontaire)_
   
