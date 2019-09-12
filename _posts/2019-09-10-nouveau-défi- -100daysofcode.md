@@ -1,6 +1,6 @@
 ---
 title: Nouveau Défi : #100DaysOfCode
-date: 2019-09-10 17:00:00 -0400
+date: 2019-09-10 15:00:00 -0400
 author: macojaune
 layout: default
 permalink: "/nouveau-defi-100-days-of-code"
@@ -12,7 +12,6 @@ categories:
 - défi
 
 ---
-
 Il reste moins de 120 jours avant la fin ~~du monde~~ de l'année. Et j'ai trouvé que c'était le bon moment pour me lancer un nouveau défi :  #100DaysOfCode.
 
 C'est un défi très populaire dans le monde entier, les développeurs pro ou amateurs s'y donnent a cœur joie, on peut voir l'activité du Hashtag sur Instagram ou Twitter c'est la folie. 
