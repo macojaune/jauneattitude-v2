@@ -8,12 +8,14 @@ fields:
 - type: datetime
   name: date
   label: date
+  default: now
 - type: text
   name: author
   label: author
 - type: text
   name: layout
   label: layout
+  default: post
 - type: text
   name: permalink
   label: permalink
@@ -22,6 +24,7 @@ fields:
   config:
     required: false
   label: image
+  default: "/uploads/2019/09/image.png"
 - type: list
   name: categories
   label: categories
