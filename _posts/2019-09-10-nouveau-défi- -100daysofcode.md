@@ -1,8 +1,8 @@
 ---
 title: Nouveau Défi : #100DaysOfCode
-date: 2019-09-10 15:00:00 -0400
+date: 2019-09-10T19:00:00.000+00:00
 author: macojaune
-layout: default
+layout: post
 permalink: "/nouveau-defi-100-days-of-code"
 image: "/uploads/2019/09/code.png"
 categories:
