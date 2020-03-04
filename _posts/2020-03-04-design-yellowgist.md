@@ -22,7 +22,7 @@ Fouille, Trifouille et dis moi quelle pépite a changé ta vie !
 
 [Paletton - The Color Scheme Designer](http://paletton.com/)
 
-[Fresh Background Gradients ](https://webgradients.com/)
+[Fresh Background Gradients](https://webgradients.com/)
 
 [colllor.com](http://colllor.com/)
 
