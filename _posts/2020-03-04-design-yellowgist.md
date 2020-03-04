@@ -14,7 +14,7 @@ categories:
 
 Liens divers et variés concernant le design, couleurs, graphismes & autre
 
-Fouille, Trifouille et dis moi quelle pépite a changé ta vie ! 
+Fouille, Trifouille et dis moi quelle pépite a changé ta vie !
 
 ## Palettes
 
@@ -88,7 +88,19 @@ Fouille, Trifouille et dis moi quelle pépite a changé ta vie !
 
 ## Photos Stock
 
-[Unsplash | High-Resolution Photos](https://unsplash.com/)
+[Unsplash | High-Resolution Photos](https://unsplash.com/)  
+[findshot](https://findshot.com/)  
+[pixabay](https://pixabay.com/)  
+[Stockio](https://www.stockio.com/  )
+[pexels](https://www.pexels.com/  )
+[Negative Space](https://negativespace.co/  )
+[GratisoGraphy](https://gratisography.com/  )
+[DreamsTime](https://www.dreamstime.com/free-photos  )
+[Free Digital Photos](http://www.freedigitalphotos.net/  )
+[Stock Vault](https://www.stockvault.net/  )
+[Free images](https://freeimages.com/  )
+[Deposit Photos](https://depositphotos.com/  )
+[Public Domain Pictures](https://www.publicdomainpictures.net/)
 
 ## Vectors
 
