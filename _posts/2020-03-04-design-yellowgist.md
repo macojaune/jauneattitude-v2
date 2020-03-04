@@ -20,19 +20,19 @@ Fouille, Trifouille et dis moi quelle pépite a changé ta vie !
 
 [flatuicolorpicker : Best Flat Colors For UI Design](http://www.flatuicolorpicker.com/)
 
-[Paletton - The Color Scheme Designer](http://paletton.com/#uid=53u060kLWHkmBNAsPMbP1riMwkm)
+[Paletton - The Color Scheme Designer](http://paletton.com/)
 
-[Fresh Background Gradients | WebGradients.com](https://webgradients.com/)
+[Fresh Background Gradients ](https://webgradients.com/)
 
 [colllor.com](http://colllor.com/)
 
-[Colorsinspo - All in one resource for finding everything about colors | Colorsinspo](https://colorsinspo.com/color-palettes)
+[Colorsinspo - All in one resource for finding everything about colors](https://colorsinspo.com/color-palettes)
 
 [Colormind - the AI powered color palette generator](http://colormind.io/)
 
 ## Textures
 
-[Subtle Patterns | Free textures for your next web project](https://www.toptal.com/designers/subtlepatterns/)
+[Subtle Patterns - Free textures for your next web project](https://www.toptal.com/designers/subtlepatterns/)
 
 ## Font
 
@@ -64,9 +64,9 @@ Fouille, Trifouille et dis moi quelle pépite a changé ta vie !
 
 [Bootswatch: Free themes for Bootstrap](http://bootswatch.com/)
 
-[10 Free Responsive Bootstrap Templates For 2016 | Almsaeed Studio](https://almsaeedstudio.com/blog/10-Free-Responsive-Bootstrap-Templates-For-2016)
+[10 Free Responsive Bootstrap Templates For 2016](https://almsaeedstudio.com/blog/10-Free-Responsive-Bootstrap-Templates-For-2016)
 
-[Wordpress Themes | Nulled Themes](http://www.nulledthemes.net/category/wordpress-themes/)
+[Wordpress Themes ](http://www.nulledthemes.net/category/wordpress-themes/)
 
 [THEMELOCK.COM - FREE PREMIUM THEMES & TEMPLATES](http://www.themelock.com/)
 
@@ -76,7 +76,7 @@ Fouille, Trifouille et dis moi quelle pépite a changé ta vie !
 
 [Milligram - A minimalist CSS framework.](http://milligram.io/)
 
-[Grav - A Modern Flat-File CMS | Official home of Grav CMS](https://getgrav.org/)
+[Grav - A Modern Flat-File CMS ](https://getgrav.org/)
 
 ## Mockups
 
@@ -108,6 +108,6 @@ Fouille, Trifouille et dis moi quelle pépite a changé ta vie !
 
 [STUDIO - Next generation DESIGN tool for digital products](https://studio.design/)
 
-[Free and premium tools for graphic designers | Lstore Graphics](https://www.ls.graphics/)
+[Free and premium tools for graphic designers ](https://www.ls.graphics/)
 
-[Pricing | Smartmockups](https://smartmockups.com/pricing)
+[ Smartmockups](https://smartmockups.com/)
