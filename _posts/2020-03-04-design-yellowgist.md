@@ -123,3 +123,5 @@ Fouille, Trifouille et dis moi quelle pépite a changé ta vie !
 [Free and premium tools for graphic designers ](https://www.ls.graphics/)
 
 [ Smartmockups](https://smartmockups.com/)
+
+Photo by [Joanna Kosinska](https://unsplash.com/@joannakosinska?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/design?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
