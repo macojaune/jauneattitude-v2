@@ -64,3 +64,12 @@ Assez cool comme projet, ça se base sur votre historique téléchargeable en .c
 Petit projet web intéressant et l'UI est super cool.
 
 [https://www.timespentonnetflix.com](https://www.timespentonnetflix.com "https://www.timespentonnetflix.com")
+
+### Vagon
+
+Un pc puissant sur le cloud ? BIZARREMENT, il est temps pour moi d'envisager un upgrade niveau ordi et du coup le service a accroché mon œil. 
+
+Rien de nouveau jusque la me direz vous, ça existe déjà. OUAI et bien j'ai trouvé leur UI sexy et leurs tarifs sont plutôt cools !   
+D'ailleurs ils offrent deux mois avec le code **PRODUCTHUNT** (héhé)
+
+Je teste et je vous dis : [https://www.vagon.io/](https://www.vagon.io/ "https://www.vagon.io/")
