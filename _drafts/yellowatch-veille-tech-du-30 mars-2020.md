@@ -32,13 +32,12 @@ Du coup de grosses tendances se dessinent :
   Les boites intelligentes, offrent des mois gratuits, des tarifs réduits ou sortent des fonctionnalités inédites. J'aime bien la réactivité à ce niveau.
 
   J'ai vu un peu de tout, j'ai encore une dizaine d'onglets ouverts quand j'écris cette ligne du coup je reviens si j'ai une pépite.
-  
 * **Les services / apps et autre autour du Covid-19**  
   Localiser les cas, masques ou sauver les restaurants près de chez soi en achetant leur vins… Un peu de tout par ici aussi. Applis pour te rappeler d'aller te laver les mains, calculateur kilométrique de papier toilette
-  
 * **Les cours, formations et le divertissement**
+
   Coincé chez toi, c'est le bon moment pour apprendre a utiliser cette machine a coudre ou à coder…  
-  Bon c'est rapé à mon niveau pour le kitesurf mais youtube va bientôt faire de moi, un tattoueur, un gamer pro ou un menuisier vu le type de vidéos que je consomme…
+  Bon, c'est rapé à mon niveau pour le kitesurf mais youtube va bientôt faire de moi un tattoueur, un gamer pro ou un menuisier vu le type de vidéos que je consomme en ce moment…
 
   En tout cas j'ai vu pas mal de choses se lancer, entre les nouvelles plateformes de e-learning, les cours universitaires gratuits ou les accès au e-bibliothèques ouverts à tous.
 
