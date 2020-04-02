@@ -27,3 +27,4 @@ _site/
 
 # Ruby
 #Gemfile.lock
+.jekyll-cache/

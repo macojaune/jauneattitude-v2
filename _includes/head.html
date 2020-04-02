@@ -1,57 +1,54 @@
+{% capture title%}{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}{% endcapture %}
+{% assign img_url = "https://aaffmwcuen.cloudimg.io/width/1200/none/https://marvinl.com/"%}
+{% capture url %}{{site.url}}{% if page.url %}{{page.url}}{% endif %}{% endcapture %}
+{% capture description %}{% if page.excerpt %}{{page.excerpt | strip_html }} {% else %} {{site.description}}{% endif %}{% endcapture%}
 <head>
 	<meta charset="utf-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-	<!--Facebook meta-->
-	<meta content="{{ site.title }}" property="og:site_name">
-	<!--Twitter meta-->
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:site" content="JauneAttitude">
-	<meta name="twitter:creator" content="@macojaune">
-	{% if page.title %}
-	<meta content="{{ page.title }}" property="og:title">
-	<meta name="twitter:title" content="{{page.title}}">
-	{% else %}
-	<meta content="{{ site.title }}" property="og:title">
-	<meta name="twitter:title" content="{{site.title}}">
-	{% endif %}
-	{% if page.title %}
-	<meta content="article" property="og:type">
-	{% else %}
-	<meta content="website" property="og:type">
-	{% endif %}
-	{% if page.description %}
-	<meta content="{{ page.description }}" property="og:description">
-	<meta name="twitter:description" content="{{page.description}}">
-	{% else %}
-	<meta content="{{ site.description }}" property="og:description">
-	<meta name="twitter:description" content="{{site.description}}">
-	{% endif %}
-	{% if page.url %}
-	<meta content="{{ site.url }}{{ page.url }}" property="og:url">
-	{% endif %}
-	{% if page.date %}
-	<meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-	<meta content="{{site.facebook_link}}" property="article:author">
-	{% endif %}
+	<title>{{title}}</title>
+	<!-- Primary Meta Tags -->
+	<meta name="title" content="{{title}}">
+	<meta name="description" content="{{page.excerpt | strip_html }}">
+
+	<!-- Open Graph / Facebook -->
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="{{url}}">
+	<meta property="og:title" content="{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}">
+	<meta property="og:description" content="{{description}}">
 	{% if page.image %}
-	<meta content="https://aaffmwcuen.cloudimg.io/cdn/n/n/http://marvinl.com/cloud_images/{{ page.image }}" property="og:image">
-	<meta name="twitter:image" content="https://aaffmwcuen.cloudimg.io/cdn/n/n/http://marvinl.com/cloud_images/{{ page.image }}">
+	<meta content="{{img_url}}{{ page.image }}" property="og:image">
+	<meta name="twitter:image" content="{{img_url}}{ page.image }}">
 	{% else %}
 	<meta content="{{site.title_image}}" property="og:image">
 	<meta name="twitter:image" content="{{ site.title_image }}">
+	{% endif %}
+
+	<!-- Twitter -->
+	<meta property="twitter:card" content="summary_large_image">
+	<meta property="twitter:url" content="{{url}}">
+	<meta property="twitter:title" content="{{title}}">
+	<meta property="twitter:description" content="{{description}}">
+	<!--Facebook meta-->
+	<meta content="{{ title }}" property="og:site_name">
+	<!--Twitter meta-->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="Blog Jaune Attitude">
+	<meta name="twitter:creator" content="{{site.twitter_username}}">
+	<meta content="{{site.facebook_link}}" property="article:author">
+	{% if page.date %}
+	<meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
 	{% endif %}
 	{% if page.categories %}
 	{% for category in page.categories limit:1 %}
 	<meta content="{{ category }}" property="article:section">
 	{% endfor %}
 	{% endif %}
-	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
-	      crossorigin="anonymous">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
 	      crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" media="all" href="{{ site.baseurl }}/css/style.css"/>
-	<link rel="stylesheet" type="text/css" media="all" href="{{ site.baseurl }}/css/jquery.mmenu.all.css"/>
+<!--	<link rel="stylesheet" type="text/css" media="all" href="{{ site.baseurl }}/css/jquery.mmenu.all.css"/>-->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/8.5.3/mmenu.min.css" integrity="sha256-ZKK4MjM4yByeQcAWmt5W9BNngxxSA4FcYlCgZMrfyqU=" crossorigin="anonymous" />
 	<link rel="stylesheet" href="{{ site.baseurl }}/css/highlightjs.piperita.css">
 
 	<!-- Favicons generated at http://realfavicongenerator.net/ -->
@@ -65,12 +62,21 @@
 	<meta name="msapplication-config" content="/favicons/browserconfig.xml">
 	<meta name="theme-color" content="#eccb00">
 	<!-- PodLink-->
-	<style>@import url("https://embed.pod.link/button.css")</style>
+	<style>@import url("https://embed.pod.link/button.css");</style>
 	<script src="https://embed.pod.link/main.js"></script>
 	{% if site.addthis_id %}
 	<!-- Go to www.addthis.com/dashboard to customize your tools -->
 	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ site.addthis_id }}"></script>
 	{% endif %}
+	<script>
+		document.addEventListener("DOMContentLoaded", ()=>{
+			new Mmenu( "#my-menu", {
+				"extensions": [
+					"theme-dark"
+				],
+			});
+		})
+	</script>
 
 	{% if page.content contains "<script type=\"math/tex" %}
 	<!-- MathJax for LaTeX -->

@@ -1,15 +1,9 @@
 <nav id="my-menu">
-  <div>
-    <p>Menu</p>
-
     <ul class="pages">
       <li><a href="{{ site.baseurl }}/"><i class="fa fa-home"></i> Accueil</a></li>
       <li><a href="{{ site.baseurl }}/articles/"><i class="fa fa-archive"></i> Tous les Articles</a></li>
       <li><a href="{{ site.baseurl }}/categories/"><i class="fa fa-hashtag"></i> Les Catégories</a></li>
       <li><a href="{{ site.baseurl }}/recherche/"><i class="fa fa-search"></i> Rechercher</a></li>
     </ul>
-
-    {% include social_links.html %}
-  </div>
 </nav>
-<div class="menu-button" href="#menu"><i class="fa fa-bars"></i></div>
+<a class="menu-button btn btn-flat" href="#my-menu"><i class="fa fa-bars"></i></a>
