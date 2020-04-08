@@ -4,7 +4,6 @@ title: Jaune et content
 date: 2016-06-13T12:36:30+00:00
 author: MarvinL
 layout: post
-guid: http://jauneattitude.marvinl.com/?p=18
 permalink: /jaune-et-content/
 xyz_fbap:
   - "1"
@@ -22,7 +21,7 @@ tags:
 ---
 Ça y est !! Je l&rsquo;ai reçu, déballé, branché et voici mon premier article tapé au clavier Bépo !
   
-_(Salut à notre ami [LDLC](http://quilivreou.fr/ldlc/) pour la rapidité)_
+_(Salut à notre ami [LDLC](https://quilivreou.fr/ldlc/) pour la rapidité)_
 
 {% cdn_img  /uploads/2016/06/claviers.jpg %}
 
@@ -54,6 +53,6 @@ Devinez quoi ?? Ça y est ! Je l’ai.
 
 Oui vous avez déjà lu ça plus haut, mais la c’est plus puissant et je tiens à remercier Leboncoin qui m’a permis de trouver et d’acheter le fauteuil de bureau comme je voulais. Tenez-vous bien, elle a été achetée en janvier 2016 donc très bon état, et surtout elle ne m’a couté que **80€** ! Vous avez bien lu, pour vous dire je n’ai même pas voulu marchander, surtout qu’on me l’avait annoncée à plus de 400€ en magasin.
 
-[Modèle ressemblant](http://media.top-office.com/media/catalog/product/cache/all/image/320x260/9df78eab33525d08d6e5fb8d27136e95/1/2/123727.jpg)
+[Modèle ressemblant](https://media.top-office.com/media/catalog/product/cache/all/image/320x260/9df78eab33525d08d6e5fb8d27136e95/1/2/123727.jpg)
 
 Voilà voilà je suis content les économies vont me permettre de changer mes lunettes, car oui cela aussi rentre dans la catégorie ergonomie mais on le garde pour un autre article.

@@ -4,7 +4,6 @@ title: ErgoJaunemie
 date: 2016-06-09T22:30:18+00:00
 author: MarvinL
 layout: post
-guid: http://jauneattitude.marvinl.com/?p=12
 permalink: /ergojaunemie/
 xyz_fbap:
   - "1"
@@ -32,7 +31,7 @@ D’abord un petit point historique est de rigueur. Avez-vous connu dans votre j
 
 Celle-là… **la machine à écrire** !
 
-Je ne vais pas spécialement rentrer dans les détails, mais plutôt vous conseiller ce webzine vraiment bien fait (bien qu&rsquo;en anglais) sous forme de comics et très ludique : [Webzine](http://issuu
+Je ne vais pas spécialement rentrer dans les détails, mais plutôt vous conseiller ce webzine vraiment bien fait (bien qu&rsquo;en anglais) sous forme de comics et très ludique : [Webzine](https://issuu
 .com/longstreth/docs/thedvorakzine/1?e=0).
   
 Vous pourrez y comprendre l’origine de notre bon vieux clavier dit azerty, ou qwerty pour les anglophones. Et pourquoi il n’a pas évolué depuis sa création, à l’inverse de tous les autres composants de nos ordinateurs. Et surtout pourquoi il n’est pas du tout adapté à la frappe moderne, et encore moins à celle du français.

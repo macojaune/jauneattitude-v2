@@ -1,13 +1,14 @@
 ---
 ---
 
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Anton);
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro:400,700);
 
+
 /* Colours */
-$yellow: #eccb00;
-$dark-yellow: #c69500;
+//$yellow: #eccb00;
+//$dark-yellow: #c69500;
 
 $twitter: #6dabda;
 $linkedin: #2b77b1;
@@ -35,6 +36,23 @@ $regular-purple: #601848;
 $red: #C04848;
 $orange: #F07241;
 
+//new Theme
+$yellow: #F2B807;
+$dark-yellow: #D9910B;
+$orange: #BF3604;
+$red: #731702;
+$dark-grey: #262626;
+
+$theme: (
+        font-family:"'Open Sans'",
+        body-bg-color: $dark-yellow,
+        body-text-color: $dark-grey,
+        link-color: $orange,
+        title-color: $yellow,
+        title-font-family:"Anton",
+        section-bg-color: $yellow);
+
+
 /* Responsive sizes */
 $screen-sm-min: 768px;
 $screen-md-min: 992px;
@@ -48,17 +66,17 @@ html {
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: map-get($theme, "font-family"), sans-serif;
   font-weight: 300;
-  background-color: $dark;
-  color: $white;
+  background-color: map-get($theme, "body-bg-color");
+  color: map-get($theme, "body-text-color");
   font-size: 16px;
   height: 100%;
   width: 100%
 }
 
 a, a:active {
-  color: $yellow;
+  color: map-get($theme, "link-color");
   text-decoration: none;
 }
 
@@ -102,18 +120,19 @@ ul {
 
 .header {
   font-size: 32px;
+  @media (min-width: $screen-sm-min) {
+    font-size: 62px;
+  }
   text-align: center;
   margin-top: 20px;
   margin-left: -0%;
   width: 100%;
-  h1{
-    color: $dark-yellow;
+
+  & h1 {
+    color: map-get($theme, "header-color");
+    font-weight: bold;
   }
-  @media (min-width: $screen-sm-min) {
-    font-size: 62px;
-    //margin-left: -10%;
-    //width: 120%;
-  }
+
 }
 
 .menu-button {
@@ -125,7 +144,7 @@ ul {
   cursor: pointer;
   line-height: 1em;
   padding: 10px;
-  background-color: $dark;
+  background-color: $dark-grey;
   z-index: 100;
   @media (min-width: $screen-sm-min) {
     top: 20px;
@@ -134,7 +153,7 @@ ul {
 }
 
 .content-panel {
-  background-color: $medium;
+  background-color: map-get($theme, 'section-bg-color');
   padding-top: 20px;
   padding-bottom: 20px;
   padding-left: 30px;
@@ -154,9 +173,6 @@ ul {
     color: $white;
   }
 
-  a:hover {
-    color: $yellow;
-  }
 
   .pages {
 
@@ -186,71 +202,59 @@ ul {
     transition: 0.3s;
   }
 
-  .fa-twitter:hover {
+  .fa-twitter {
     color: $twitter;
+
+    &:hover {
+      color: darken($twitter, 20%);
+    }
   }
 
-  .fa-linkedin:hover {
+  .fa-linkedin {
     color: $linkedin;
+
+    &:hover {
+      color: darken($linkedin, 20%);
+    }
   }
 
-  .fa-xing:hover {
-    color: $xing;
-  }
-
-  .fa-google-plus:hover {
-    color: $google-plus;
-  }
-
-  .fa-facebook:hover {
+  .fa-facebook {
     color: $facebook;
+
+    &:hover {
+      color: darken($facebook, 20%);
+    }
   }
 
-  .fa-github-alt:hover {
+  .fa-github-alt {
     color: $github;
+
+    &:hover {
+      color: darken($github, 20%);
+    }
   }
 
-  .fa-stack-overflow:hover {
-    color: $stack-overflow;
-  }
 
-  .fa-instagram:hover {
+  .fa-instagram {
     color: $instagram;
+
+    &:hover {
+      color: darken($instagram, 20%);
+    }
   }
 
-  .fa-reddit-alien:hover {
-    color: $reddit;
-  }
-
-  .fa-rss:hover {
-    color: $rss;
-  }
 }
 
 /* Index */
 
 .index {
-  //height: 100%;
-  //max-height: 100%;
-  //width: 100%;
-  //padding: 0px;
-  //
-  //@media (min-width: $screen-sm-min) {
-  //  width: 700px;
-  //  max-width: 700px;
-  //}
 
   .header {
     margin-top: 10px;
-    margin-left: 0%;
-    margin-bottom: 0px;
+    margin-left: 0;
+    margin-bottom: 0;
     font-size: 32px;
     width: 100%;
-    //
-    //@media (min-width: $screen-lg-min) {
-    //  margin-left: -10%;
-    //  width: 120%;
-    //}
   }
 
   .categories {
@@ -258,34 +262,26 @@ ul {
   }
 
   .content-panel:nth-of-type(1) {
-    border-bottom: 10px solid $yellow;
+    border-bottom: 10px solid $orange;
   }
 
   .author-header {
-    font-family: 'Montserrat', sans-serif;
-    color: $yellow;
-    margin-top: 0px;
+    font-family: map-get($theme, 'title-font-family'), sans-serif;
+    font-weight: bold;
+    color: $dark-grey;
+    margin-top: 0;
     padding-top: 15px;
     font-size: 30px;
 
     @media (min-width: $screen-sm-min) {
       font-size: 52px;
-      margin-top: 0px;
+      margin-top: 0;
     }
 
     @media (min-width: $screen-md-min) {
       font-size: 60px;
-      //margin-top: -20px;
     }
   }
-  //
-  //.row {
-  //  //height: 100%;
-  //  //max-height: 100%;
-  //  margin-top: 60px;
-  //  //margin-left: 0px;
-  //  //margin-right: 0px;
-  //}
 
   .gravatar {
     width: 100%;
@@ -312,13 +308,20 @@ ul {
 
     h2 {
       margin-bottom: 30px;
-      color: $yellow;
-      font-size: 26px;
+      color: $orange;
+      font-size: 30px;
+      font-weight: bold;
+      font-family: "Montserrat", sans-serif;
+    }
+
+    .card {
+      background-color: $dark-grey;
+      color: $white;
     }
 
     ul {
 
-      padding: 0px;
+      padding: 0;
 
       li {
         margin-bottom: 20px;
@@ -346,16 +349,7 @@ ul {
       }
     }
 
-    a, a:active {
-      color: $white;
-      white-space: nowrap;
-    }
-
-    a:hover {
-      color: $yellow;
-    }
   }
-
   .copyright {
     margin-top: 50px;
     text-align: center;
@@ -509,6 +503,7 @@ ul {
       ul {
         padding: 0px;
       }
+
       li {
         margin-bottom: 10px;
       }
@@ -858,16 +853,19 @@ ul {
   background-color: $yellow;
   border-color: $yellow;
   color: $dark;
+
   &:hover {
     background-color: $dark-yellow;
     border-color: $dark-yellow;
     color: $white;
   }
+
   &:active {
     background-color: $dark-yellow;
     border-color: $dark-yellow;
     color: $white;
   }
+
   &:focus {
     background-color: $dark-yellow;
     border-color: $dark-yellow;
@@ -878,9 +876,11 @@ ul {
 .dropdown-menu {
   background-color: $yellow;
   color: $dark;
+
   > li > a {
     background-color: $yellow;
     color: $dark;
+
     &:hover {
       background-color: $dark-yellow;
       color: $white;

@@ -4,7 +4,6 @@ title: Yellow World !
 date: 2016-06-04T20:00:38+00:00
 author: MarvinL
 layout: post
-guid: http://jauneattitude.marvinl.com/?p=8
 permalink: /yellow-world/
 xyz_fbap:
   - "1"

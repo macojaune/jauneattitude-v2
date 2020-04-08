@@ -4,7 +4,7 @@ title: The Yellow Shooter
 date: 2017-05-30T13:36:56+00:00
 author: MarvinL
 layout: post
-guid: http://jauneattitude.fr/?p=170
+guid: https://jauneattitude.fr/?p=170
 permalink: /the-yellow-shooter/
 xyz_fbap:
   - "1"
@@ -84,7 +84,7 @@ Pour la pratique du 10 mètres, on utilise des armes à air comprimé, qui tiren
 
 C&rsquo;est plutôt de ce style la
 
-<img class="alignnone size-full wp-image-173" src="http://jauneattitude.fr/uploads/2017/05/antchutz900.jpg" alt="014146" width="5560" height="1576" srcset="http://jauneattitude.fr/uploads/2017/05/antchutz900.jpg 5560w, http://jauneattitude.fr/uploads/2017/05/antchutz900-300x85.jpg 300w, http://jauneattitude.fr/uploads/2017/05/antchutz900-768x218.jpg 768w, http://jauneattitude.fr/uploads/2017/05/antchutz900-1024x290.jpg 1024w, http://jauneattitude.fr/uploads/2017/05/antchutz900-400x113.jpg 400w" sizes="(max-width: 5560px) 100vw, 5560px" />
+<img class="alignnone size-full wp-image-173" src="https://jauneattitude.fr/uploads/2017/05/antchutz900.jpg" alt="014146" width="5560" height="1576" srcset="https://jauneattitude.fr/uploads/2017/05/antchutz900.jpg 5560w, https://jauneattitude.fr/uploads/2017/05/antchutz900-300x85.jpg 300w, https://jauneattitude.fr/uploads/2017/05/antchutz900-768x218.jpg 768w, https://jauneattitude.fr/uploads/2017/05/antchutz900-1024x290.jpg 1024w, https://jauneattitude.fr/uploads/2017/05/antchutz900-400x113.jpg 400w" sizes="(max-width: 5560px) 100vw, 5560px" />
 
 <p style="text-align: center;">
   <em>Modèle Anschutz 9015<br /> Oui c&rsquo;est ma préférée et j&rsquo;en rêve la nuit ( en plus de mes motos, mon Sony A9 et ma Bmw M4), si je pouvais la recevoir dans ma boite aux lettres d&rsquo;ici quelques jours je serai comblé.</em>
@@ -125,7 +125,7 @@ Oui, dixième de millimètres. C&rsquo;est de la précision les gars.
 
 En général les stands sont couverts, on tire en intérieur sans vent, et avec une luminosité contsante… mais en Guadeloupe on est un peu différent, on aime pas quand c&rsquo;est trop facile donc on tire à ciel ouvert avec vent, pluie et luminosité changeante. Ça forge les champions !
 
-<img class="aligncenter" src="http://www.10pt9.com/media/catalog/product/cache/1/image/320x320/9df78eab33525d08d6e5fb8d27136e95/i/m/image_9211.jpg" width="320" height="320" />
+<img class="aligncenter" src="https://www.10pt9.com/media/catalog/product/cache/1/image/320x320/9df78eab33525d08d6e5fb8d27136e95/i/m/image_9211.jpg" width="320" height="320" />
 
 Ok et c&rsquo;est quoi cet accoutrement ? C&rsquo;est des combinaisons pare-balle ?
 

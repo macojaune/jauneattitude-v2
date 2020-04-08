@@ -53,7 +53,7 @@ Depuis, je n&rsquo;ai pas été réellement régulier dans cette voie. Avec les 
   Un bon poste dans une <em>«grosse boite»</em> à développer de belles solutions informatiques.
 </p>
 
-Puis un stage dans une start-up ([Sooyoos](http://sooyoos.com), peace les gars) m&rsquo;a ouvert les yeux, les petites boites c&rsquo;est bien plus stimulant et cool. Les pauses Gaming du Midi et la bière du vendredi aprèm n&rsquo;y sont pour rien _(Je bois même pas de bière, **eurk**)._
+Puis un stage dans une start-up ([Sooyoos](https://sooyoos.com), peace les gars) m&rsquo;a ouvert les yeux, les petites boites c&rsquo;est bien plus stimulant et cool. Les pauses Gaming du Midi et la bière du vendredi aprèm n&rsquo;y sont pour rien _(Je bois même pas de bière, **eurk**)._
 
 Ma dernière expérience pro en Master 2 fut 1 année en contrat pro, chez un grossiste en pharmaceutique.
 

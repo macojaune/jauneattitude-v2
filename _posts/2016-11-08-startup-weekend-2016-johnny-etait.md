@@ -4,7 +4,6 @@ title: Startup Weekend 2016 : Johnny était.
 date: 2016-11-08T01:10:10+00:00
 author: MarvinL
 layout: post
-guid: http://jauneattitude.fr/?p=125
 permalink: /startup-weekend-2016-johnny-etait/
 xyz_fbap:
   - "1"
