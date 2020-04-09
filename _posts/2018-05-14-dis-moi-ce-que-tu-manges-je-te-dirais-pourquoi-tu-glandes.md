@@ -32,7 +32,7 @@ categories:
   </p>
   
   <p>
-    Je sais parfaitement pourquoi je suis dans cet état. J&rsquo;ai délibérément fais l&rsquo;action de prendre les décisions qui m&rsquo;ont mené jusque la.<br /> Alors cela peut vous paraitre tragique, non personne n&rsquo;est mort, je n&rsquo;ai encore vendu mon âme à qui que ce soit, ET Et… <a href="http://jauneattitude.fr/yellove-is-beautiful/">ma Nappy De Compagnie </a>a toujours ses deux reins (et ses cheveux) ne vous en faites pas.
+    Je sais parfaitement pourquoi je suis dans cet état. J&rsquo;ai délibérément fais l&rsquo;action de prendre les décisions qui m&rsquo;ont mené jusque la.<br /> Alors cela peut vous paraitre tragique, non personne n&rsquo;est mort, je n&rsquo;ai encore vendu mon âme à qui que ce soit, ET Et… <a href="https://jauneattitude.fr/yellove-is-beautiful/">ma Nappy De Compagnie </a>a toujours ses deux reins (et ses cheveux) ne vous en faites pas.
   </p>
   
   <p>
@@ -90,7 +90,7 @@ categories:
   </p>
   
   <p>
-    Madame travaille, je vais au tir (Suivez mes aventures ici : IG <a href="http://instagram.com/yellowshotter">YellowShooter</a>) on est tous les deux complètement amorphes, tels deux vegxico venant de partager une demie-seringue de spiruline fraiche. <em>(vous avez suivi la blague ?)</em>
+    Madame travaille, je vais au tir (Suivez mes aventures ici : IG <a href="https://instagram.com/yellowshotter">YellowShooter</a>) on est tous les deux complètement amorphes, tels deux vegxico venant de partager une demie-seringue de spiruline fraiche. <em>(vous avez suivi la blague ?)</em>
   </p>
   
   <p>

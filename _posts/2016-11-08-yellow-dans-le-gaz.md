@@ -4,7 +4,6 @@ title: Yellow dans le gaz
 date: 2016-11-08T00:33:44+00:00
 author: MarvinL
 layout: post
-guid: http://jauneattitude.fr/?p=120
 permalink: /yellow-dans-le-gaz/
 xyz_fbap:
   - "1"
@@ -39,7 +38,7 @@ categories:
 </p>
 
 <p style="padding-left: 30px; text-align: left;">
-  Mon objectif de 10k€ (http://jauneattitude.fr/operation-10k/) est bien loin d’être entamé, on doit être à +50 grâce à un «job» de chauffeur privé pour une demoiselle fort sympathique.<br /> J&rsquo;avance bien sur notre projet à 2 et j&rsquo;ai un rdv avec un prospect d&rsquo;ici mardi… sans compter qu&rsquo;on me doit toujours ces presque 4000€.
+  Mon objectif de 10k€ (https://jauneattitude.fr/operation-10k/) est bien loin d’être entamé, on doit être à +50 grâce à un «job» de chauffeur privé pour une demoiselle fort sympathique.<br /> J&rsquo;avance bien sur notre projet à 2 et j&rsquo;ai un rdv avec un prospect d&rsquo;ici mardi… sans compter qu&rsquo;on me doit toujours ces presque 4000€.
 </p>
 
 <p style="padding-left: 30px; text-align: center;">

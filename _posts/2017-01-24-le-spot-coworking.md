@@ -4,7 +4,6 @@ title: Jaune Comme Brice
 date: 2017-01-24T16:13:42+00:00
 author: MarvinL
 layout: post
-guid: http://jauneattitude.fr/?p=163
 permalink: /le-spot-coworking/
 xyz_fbap:
   - "1"
@@ -21,7 +20,7 @@ Salut salut ! Encore un titre pourri ?
   
 Vous avez suivi la référence au dieu du surf ? Non pas du tout ? Tant pis, moi oui.
 
-<img class="aligncenter wp-image-166 size-medium" src="http://jauneattitude.fr/uploads/2017/01/le-spot-300x300.png" alt="15941301_264334883982680_3842916387902287929_n" width="300" height="300" srcset="http://jauneattitude.fr/uploads/2017/01/le-spot-300x300.png 300w, http://jauneattitude.fr/uploads/2017/01/le-spot-150x150.png 150w, http://jauneattitude.fr/uploads/2017/01/le-spot-400x400.png 400w, http://jauneattitude.fr/uploads/2017/01/le-spot.png 497w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="aligncenter wp-image-166 size-medium" src="https://jauneattitude.fr/uploads/2017/01/le-spot-300x300.png" alt="15941301_264334883982680_3842916387902287929_n" width="300" height="300" srcset="https://jauneattitude.fr/uploads/2017/01/le-spot-300x300.png 300w, https://jauneattitude.fr/uploads/2017/01/le-spot-150x150.png 150w, https://jauneattitude.fr/uploads/2017/01/le-spot-400x400.png 400w, https://jauneattitude.fr/uploads/2017/01/le-spot.png 497w" sizes="(max-width: 300px) 100vw, 300px" />
 
 <p style="text-align: center;">
   <strong>Le Spot co-working</strong> vient d&rsquo;ouvrir. Ça y est vous pouvez surfer !

@@ -4,7 +4,6 @@ title: 'Yellow Rider : Épisode 1'
 date: 2016-06-23T12:12:04+00:00
 author: MarvinL
 layout: post
-guid: http://jauneattitude.fr/?p=45
 permalink: /yellow-rider-bmx/
 xyz_fbap:
   - "1"

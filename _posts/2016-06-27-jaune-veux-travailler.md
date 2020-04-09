@@ -4,7 +4,6 @@ title: Jaune veux pas travailler
 date: 2016-06-27T12:00:02+00:00
 author: MarvinL
 layout: post
-guid: http://jauneattitude.fr/?p=51
 permalink: /jaune-veux-travailler/
 xyz_fbap:
   - "1"
@@ -46,7 +45,7 @@ L’intérêt n’est pas que les revenus soient gigantesques (bien que je ne di
   
 Vous avez maintenant une partie de ma façon de voir la vie, qu’en pensez-vous ? Pour «complètement tordue» tapez <span style="text-decoration: underline;">1</span>, pour «loufoque mais ça se tient» tapez <span style="text-decoration: underline;">2</span>, sinon, vous pouvez raccrocher… _\*tuut\*_
   
-En ce moment par exemple j’ai envie de bosser sur un projet à la fois lucratif, automobile et artistique qui sont des domaines « passions » dont l’idée me trotte en tête depuis quelques temps déjà, et donc mettre en «pause» (_vrai geek n’est jamais en pause_) l’informatique surtout que ce dernier me procure pas mal de désagréments oculaires (donc monétaires) ces temps-ci, tout en profitant pour me mettre à ces sports que j’adorerais maitriser tel que le kitesurf, VTT ou encore le BMX (c&rsquo;est fait et voici mon avis : <a href="http://jauneattitude.fr/yellow-rider-bmx/" target="_blank">Article</a>).
+En ce moment par exemple j’ai envie de bosser sur un projet à la fois lucratif, automobile et artistique qui sont des domaines « passions » dont l’idée me trotte en tête depuis quelques temps déjà, et donc mettre en «pause» (_vrai geek n’est jamais en pause_) l’informatique surtout que ce dernier me procure pas mal de désagréments oculaires (donc monétaires) ces temps-ci, tout en profitant pour me mettre à ces sports que j’adorerais maitriser tel que le kitesurf, VTT ou encore le BMX (c&rsquo;est fait et voici mon avis : <a href="https://jauneattitude.fr/yellow-rider-bmx/" target="_blank">Article</a>).
 
 Je suis un fan de sports extrêmes sans en pratiquer ni même être un «sportif» de manière générale, c’est assez contradictoire. Le timing n’est pas forcément le meilleur en plus on est à la fin de la saison sportive… et au début des vacances, on m’a déjà sollicité pour préparer les sorties plages rivières et autre randonnées, vous voyez le topo ? Les prochains mois vont donc être mouvementés et je ferais en sorte qu’il n’y ai pas que des «**&#8211;**» sur mon compte.
 

@@ -4,7 +4,6 @@ title: Le Jaune et la Tortue
 date: 2016-06-28T12:00:15+00:00
 author: MarvinL
 layout: post
-guid: http://jauneattitude.fr/?p=55
 permalink: /le-jaune-et-la-tortue/
 xyz_fbap:
   - "1"
@@ -14,7 +13,7 @@ categories:
 ---
 Hier Je discutais avec un ami (son blog Je suis riche, Je le sais) et il me partageait un passage d&rsquo;un de ses livres du moment, **« L&rsquo;homme le plus riche de Babylone »**. (prochain achat livre)
 
-{% cdn_img http://businessmalin.fr/uploads/2016/03/l-homme-le-plus-riche-de-babylone.jpg %}
+{% cdn_img https://businessmalin.fr/uploads/2016/03/l-homme-le-plus-riche-de-babylone.jpg %}
   
 Il expose 4 types de travailleurs, Lièvres, Hiboux, Tortues, Écureuils.
   

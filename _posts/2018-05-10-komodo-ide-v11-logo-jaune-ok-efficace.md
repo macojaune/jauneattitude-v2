@@ -128,7 +128,7 @@ tags:
   </p>
   
   <p>
-    Avec Komodo pas de soucis, je ne l&rsquo;ai pas utilisé bien longtemps après tout, mais il est de manière générale beaucoup plus léger. Bon point pour Komodo cette fois.<br /> Seul bémol, les popups prennent bien 5secondes avant d&rsquo;afficher leur contenus. Quand tu tapes un Ctrl+W par inadvertence à cause du clavier non orthogonal <a href="http://jauneattitude.fr/ergojaunemie/" target="_blank">(découvrez de quoi je parle ici)</a> d&rsquo;origine de l&rsquo;ordi c&rsquo;est risqué.
+    Avec Komodo pas de soucis, je ne l&rsquo;ai pas utilisé bien longtemps après tout, mais il est de manière générale beaucoup plus léger. Bon point pour Komodo cette fois.<br /> Seul bémol, les popups prennent bien 5secondes avant d&rsquo;afficher leur contenus. Quand tu tapes un Ctrl+W par inadvertence à cause du clavier non orthogonal <a href="https://jauneattitude.fr/ergojaunemie/" target="_blank">(découvrez de quoi je parle ici)</a> d&rsquo;origine de l&rsquo;ordi c&rsquo;est risqué.
   </p>
   
   <h2>

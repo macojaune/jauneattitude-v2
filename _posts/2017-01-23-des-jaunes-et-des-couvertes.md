@@ -4,7 +4,6 @@ title: Des jaunes et des couvertes
 date: 2017-01-23T19:29:56+00:00
 author: MarvinL
 layout: post
-guid: http://jauneattitude.fr/?p=154
 permalink: /des-jaunes-et-des-couvertes/
 xyz_fbap:
   - "1"

@@ -4,7 +4,6 @@ title: 'Yellow&rsquo;cation'
 date: 2016-09-08T11:15:04+00:00
 author: MarvinL
 layout: post
-guid: http://jauneattitude.fr/?p=109
 permalink: /yellowcation/
 xyz_fbap:
   - "1"

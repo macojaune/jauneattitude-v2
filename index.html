@@ -33,8 +33,8 @@ make-smaller-titles: true
                 <div class="row">
 
                     {% for post in site.posts limit: site.post_limit %}
-                    <div class="col-xs-12 col-md-4">
-                        <div class="card pa-2 bg-transparent">
+                    <div class="col-xs-12 col-md-4 my-2">
+                        <div class="card pa-2">
                             <a href="{{ post.url | prepend: site.baseurl }}">
                                 <img ci-src="{{post.image}}" ratio="1.5" height="200"
                                      alt="Image: {{post.title}}" class="card-img-top">
@@ -44,7 +44,7 @@ make-smaller-titles: true
                                 <p class="card-text">
                                     <small class="text-muted">{% include date.html date=post.date %}</small>
                                 </p>
-                                <a class="card-link" style="color:#eccb00" href="{{ post.url | prepend: site.baseurl }}">Lire l'article</a>
+                                <a class="card-link" href="{{ post.url | prepend: site.baseurl }}">Lire l'article</a>
                             </div>
                         </div>
                     </div>
@@ -63,10 +63,10 @@ make-smaller-titles: true
             <div class="articles">
                 <h2>Les catégories</h2>
 
-                <div class="row">
+                <div class="row align-items-center">
                     {% for category in site.categories %}
                     <div class="col-6 col-md text-center">
-                        <a href="/categories#{{category | first}}-ref">{{category | first}}</a>
+                        <a class="category-link" href="/categories#{{category | first}}-ref">{{category | first}}</a>
                     </div>
                     {% endfor %}
                 </div>
