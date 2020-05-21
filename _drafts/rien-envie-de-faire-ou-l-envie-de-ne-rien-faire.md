@@ -1,10 +1,11 @@
 ---
-date: 2020-01-31 01:30:31 -0400
+date: 2020-01-31T05:30:31.000+00:00
 layout: post
 image: "/uploads/2019/09/image.png"
 title: Rien envie de faire ou l'envie de ne rien faire ?
 author: macojaune
-categories: []
+categories:
+- life
 
 ---
 Aujourd'hui je n'ai rien eu envie de faire.   
