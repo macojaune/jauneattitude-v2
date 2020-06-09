@@ -5,7 +5,8 @@ image: "/uploads/2020/06/avinash-kumar-K1T4pKWpr8k-unsplash.jpg"
 title: Juste une pilule
 author: macojaune
 permalink: juste-une-pilule
-categories: []
+categories:
+- JauneVie
 
 ---
 Après presque 10 ans, j'ai pour la première fois déposé ma femme à l'hôpital.  
