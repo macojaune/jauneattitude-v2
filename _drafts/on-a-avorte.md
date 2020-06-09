@@ -1,9 +1,10 @@
 ---
 date: 2020-05-21 01:39:53 -0400
 layout: post
-image: "/uploads/2019/09/image.png"
+image: "/uploads/2020/06/avinash-kumar-K1T4pKWpr8k-unsplash.jpg"
 title: Juste une pilule
 author: macojaune
+permalink: juste-une-pilule
 categories: []
 
 ---
@@ -13,11 +14,11 @@ Oui. Déposée, gestes barrières et pandémie oblige, je n'ai pas pu l'accompag
 Heureux évènement ? J'aurai aimé, vraiment.
 
 J'ai à diverses occasions imaginé ma réaction, sa réaction.  
-Nos joies, nos vies à ce moment là. 
+Nos joies, nos vies à ce moment là.
 
 L'annonce.
 
-Je me suis déçu, pas de joie…   
+Je me suis déçu, pas de joie…  
 Ah si, la joie de savoir qu'est-ce qui a autant affaibli ma dame, ce qui fait qu'elle crache ses tripes et tord ses boyaux avec autant d'effroi depuis leur déconfinement.
 
 Je n'avais jamais lu, ou entendu d'histoire d'homme dans cette situation, notre situation. Ma réaction était-elle normale ? Ai-je le droit d'avoir un avis ?
@@ -26,15 +27,15 @@ Le docteur lui avait dit qu'elle aurait du mal. Qu'elle ne pourrait pas.
 
 On n'en avait pas spécialement reparlé, ma dernière visite chez le médecin remonte déjà à 1 an et c'était dù à l'accident…
 
-On est comme ça, la santé c'est d'abord une succession de pensée bien alignées.   
+On est comme ça, la santé c'est d'abord une succession de pensée bien alignées.  
 Alors on s'efforce de mettre les mauvaises pensées de côté et se concentrer sur celles qui attirent le dessein qui nous plait.
 
 Et si c'était la seule chance ? On l'a attiré non ? Est-ce un signe ?
 
-Après un long silence, profond, comme le siège des WC d'où madame vient de balancer la boite en carton, on s'est étreints, regardés…   
-Contemplés, je dirais, comme à chaque fois que je la vois d'aussi près.  
-  
-J'attendais ses mots, je n'osait pas laisser les miens sortir, c'est son corps, sa décision.   
+Après un long silence, profond, comme le siège des WC d'où madame vient de balancer la boite en carton, on s'est étreints, regardés…  
+Contemplés, je dirais, comme à chaque fois que je la vois d'aussi près.
+
+J'attendais ses mots, je n'osait pas laisser les miens sortir, c'est son corps, sa décision.  
 Je la respecte, je lui dois ceci.
 
 À pleine vitesse, je fais des plans, mai, juin, juillet… Janvier. Capricorne, comme ma mère  ? Ouhla, déjà pourquoi je pense à ma mère à ce moment… bref.
@@ -48,7 +49,7 @@ Des mots ! Ah… À quoi je pense ? Beaucoup de choses, plein, trop…
 "Je pense qu'on n'est pas prêt."  
 \- Moi non plus…
 
-Égoïste ? Peut-être.   
+Égoïste ? Peut-être.  
 J'avais envie de sauter de joie. De le vouloir, dès le départ, avant même de tamiser la lumière ou de lancer la playlist. Décider…
 
 Décider.
@@ -76,3 +77,7 @@ Je ne sais pas je n'ai jamais entendu personne dire ça…
 …
 
 On a avorté.
+
+.
+
+Photo by [Avinash Kumar](https://unsplash.com/@ashishjha) on Unsplash
