@@ -25,8 +25,9 @@ fields:
     required: false
   label: image
   default: "/uploads/2019/09/image.png"
-- type: list
-  name: categories
+- name: categories
+  type: tag_list
+  default: []
   label: categories
 pages:
 - _posts/2019-09-10-nouveau-défi- -100daysofcode.md
