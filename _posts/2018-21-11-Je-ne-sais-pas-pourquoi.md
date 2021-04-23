@@ -1,13 +1,14 @@
 ---
 title: Je ne sais pas pourquoi j'écris ceci
-date: 2018-11-21T02:28:28+00:00
+date: 2018-11-21T02:28:28.000+00:00
 author: MarvinL
 layout: post
-permalink: /je-ne-sais-pas-pourquoi
+permalink: "/je-ne-sais-pas-pourquoi"
 categories:
-  - JauneVie
----
+- JauneVie
+image: "/uploads/2019/07/jo-szczepanska-lCYoIM-fbuU-unsplash.jpg"
 
+---
 # Je ne sais pas pourquoi j'écris ceci
 
 Et pourtant j'écris, vous l'aurez compris je suis encore une fois dans une phase de réflexion intense. 
@@ -63,5 +64,3 @@ Bref je crois que cet article n'a plus trop de sens, et vous savez déjà,  je n
 Car telle est ma misson : *#JWI* 
 
 J'attends vos commentaires, retours et avis. Et si vous voyez des fautes ou des phrases inachevées dites le moi ahah.
-
-
