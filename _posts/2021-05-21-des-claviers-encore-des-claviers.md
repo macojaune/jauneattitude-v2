@@ -1,11 +1,11 @@
 ---
 date: 2021-05-21 20:00:53 -0400
 layout: post
-image: "/uploads/2019/09/image.png"
+image: "/uploads/2021/05/blurrystock-HIbAmybJHVs-unsplash.jpg"
 categories:
 - ergonomie
 - clavier
-- geek
+- geekeries
 title: Des Claviers, encore des claviers
 author: marvinL
 permalink: "/des-claviers-encore-des-claviers"
