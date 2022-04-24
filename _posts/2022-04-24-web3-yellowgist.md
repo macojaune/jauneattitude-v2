@@ -40,6 +40,9 @@ Swap on Solana : Raydium ([https://raydium.io/](https://raydium.io/ "https://ray
 
 \#StayConnect
 
+Coinbase:  [https://www.coinbase.com/join/londin_g](https://www.coinbase.com/join/londin_g "https://www.coinbase.com/join/londin_g")   
+(lien parrainage _+10€ en BTC après 1ère transaction…_)
+
 Kucoin : Plateforme d'échange [https://www.kucoin.com/](https://www.kucoin.com/ "https://www.kucoin.com/")
 
 Analyse Solana: [https://birdeye.so/](https://birdeye.so/ "https://birdeye.so/")
