@@ -10,7 +10,7 @@ author: macojaune
 permalink: web3-gist
 
 ---
-# Web3 links 
+# Web3 links
 
 Liens divers et variés concernant le web3.0, blockchain, crypto, NFT & autre…
 
@@ -18,13 +18,31 @@ Fouille, trifouille et dis moi quelle pépite t'as rendu crypto millionnaire !
 
 ## Qu'est-ce que le Web 3.0 ?
 
+\#StayConnect (voir les "explications générales" des sections)
+
 ### Blockchains & Cryptos
 
 Qu'est-ce qu'une DAO (Decentralized Autonomous Organization) ? (EN) : [https://www.youtube.com/watch?v=KHm0uUPqmVE](https://www.youtube.com/watch?v=KHm0uUPqmVE "https://www.youtube.com/watch?v=KHm0uUPqmVE")
 
 #### Wallets
 
+ETHEREUM : Metamask
+
+SOLANA : Phantom / Solflare (sur mobile)
+
+#### Swap
+
+Swap sur Avalanche (AVAX) : TraderJoe ([Trader Joe - swap on avalanche](https://traderjoexyz.com/#/home))
+
+Swap on Solana : Raydium ([https://raydium.io/](https://raydium.io/ "https://raydium.io/"))
+
 ### Trading / Mining / Stacking
+
+\#StayConnect
+
+Kucoin : Plateforme d'échange [https://www.kucoin.com/](https://www.kucoin.com/ "https://www.kucoin.com/")
+
+Analyse Solana: [https://birdeye.so/](https://birdeye.so/ "https://birdeye.so/")
 
 ## NFT ? C'est quoi ce bordel
 
@@ -34,7 +52,19 @@ Explication globale (FR) : [https://www.youtube.com/watch?v=w5cB6Sy2tXk](https:/
 
 Série Trading NFT : Challenge 500$ (EN) [https://www.youtube.com/watch?v=MJsKu0tVwIc&t=633s](https://www.youtube.com/watch?v=MJsKu0tVwIc "https://www.youtube.com/watch?v=MJsKu0tVwIc")
 
+#### Marketplaces
+
+OpenSea (multi) : [https://opensea.io/](https://opensea.io/ "https://opensea.io/")
+
+ Solsea (Solana) : [https://solsea.io/](https://solsea.io/ "https://solsea.io/")
+
+Rarible (ETH)
+
 ### Jeux
+
+ShamelessPlug : [https://www.youtube.com/watch?v=NqegL9_XFpY](https://www.youtube.com/watch?v=NqegL9_XFpY "https://www.youtube.com/watch?v=NqegL9_XFpY")
+
+\#StayConnect
 
 ## Développement Web3
 
@@ -58,3 +88,5 @@ Tuto Smart Contract SOL (EN) : [https://www.youtube.com/watch?v=gA7hFdq2h9Q&t=24
 Série Tuto Jeu NFT avec Moralis (EN) : [https://www.youtube.com/watch?v=F7XN8CzdDPg](https://www.youtube.com/watch?v=F7XN8CzdDPg "https://www.youtube.com/watch?v=F7XN8CzdDPg")
 
 ## Metaverse
+
+\#StayConnect
