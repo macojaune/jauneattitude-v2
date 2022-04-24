@@ -1,7 +1,7 @@
 ---
 date: 2022-04-24 14:54:15 -0400
 layout: post
-image: "/uploads/2022/04/kanchanara-FNZDYyI6rwc-unsplash.jpg"
+image: "/uploads/2022/04/kanchanara-ow-rGjlqJkM-unsplash.jpg"
 categories:
 - web3
 - Gist
