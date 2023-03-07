@@ -1,5 +1,5 @@
 ---
-date: 2020-05-21 01:39:53 -0400
+date: 2020-05-21T01:39:53.000-04:00
 layout: post
 image: "/uploads/2020/06/avinash-kumar-K1T4pKWpr8k-unsplash.jpg"
 title: Juste une pilule
@@ -9,6 +9,8 @@ categories:
 - JauneVie
 
 ---
+> Cet Article a été publié dans l'[Édition n°3 du Neg Magazine](https://negmagazine.art/)
+
 Après presque 10 ans, j'ai pour la première fois déposé ma femme à l'hôpital.  
 Oui. Déposée, gestes barrières et pandémie oblige, je n'ai pas pu l'accompagner.
 
