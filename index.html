@@ -16,66 +16,61 @@ make-smaller-titles: true
             {% include social_links.html %}
         </div>
     </div>
-<!--    <div class="row">-->
-<!--        <div class="col-md-12 content-panel">-->
-<!--            <div class="articles text-center">-->
-<!--                <h2>Le #Macotidien </h2>-->
-<!--                <p>Découvre mon podcast</p>-->
-<!--              	<iframe src="https://anchor.fm/macojaune/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>-->
-<!--                <h5>Abonne-toi sur la plateforme de ton choix et partage le lien à tes amis.</h5>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
     <div class="row">
-        <div class="col-md-12 main content-panel">
-            <div class="text-center my-4">
-                <h1 class="header author-header">Le blog s'est fait la malle !</h1>
-                <p>Retrouve le sur
-                    <a href="https://macojaune.com" class="btn btn-lg btn-dark text-warning">Macojaune.com</a></p></div>
-<!--            <div class="articlebundle exec jekyll serve
-s">-->
-<!--                <h2>Articles Récents</h2>-->
-<!--                <div class="row">-->
-
-<!--                    {% for post in site.posts limit: site.post_limit %}-->
-<!--                    <div class="col-xs-12 col-md-4 my-2">-->
-<!--                        <div class="card pa-2">-->
-<!--                            <a href="{{ post.url | prepend: site.baseurl }}">-->
-<!--                                <img ci-src="{{post.image}}" ratio="1.5" height="200"-->
-<!--                                     alt="Image: {{post.title}}" class="card-img-top">-->
-<!--                            </a>-->
-<!--                            <div class="card-body">-->
-<!--                                <h5 class="card-title">{{ post.title }}</h5>-->
-<!--                                <p class="card-text">-->
-<!--                                    <small class="text-muted">{% include date.html date=post.date %}</small>-->
-<!--                                </p>-->
-<!--                                <a class="card-link" href="{{ post.url | prepend: site.baseurl }}">Lire l'article</a>-->
-<!--                            </div>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    {% endfor %}-->
-<!--                </div>-->
-<!--                <div class="row pt-2">-->
-<!--                    <div class="col">-->
-<!--                        <a class="btn btn-block pa-2 btn-dark" href="{{ site.baseurl }}/articles/">En voir plus...</a>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
+        <div class="col-md-12 content-panel">
+            <div class="articles text-center">
+                <h2>Le #Macotidien </h2>
+                <p>Découvre mon podcast</p>
+              	<iframe src="https://anchor.fm/macojaune/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+                <h5>Abonne-toi sur la plateforme de ton choix et partage le lien à tes amis.</h5>
+            </div>
         </div>
     </div>
-<!--    <div class="row">-->
-<!--        <div class="col main content-panel">-->
-<!--            <div class="articles">-->
-<!--                <h2>Les catégories</h2>-->
+    <div class="row">
+        <div class="col-md-12 main content-panel">
+            <div class="articles">
+                <h2>Articles Récents</h2>
+                <div class="row">
 
-<!--                <div class="row align-items-center">-->
-<!--                    {% for category in site.categories %}-->
-<!--                    <div class="col-6 col-md text-center">-->
-<!--                        <a class="category-link" href="/categories#{{category | first}}-ref">{{category | first}}</a>-->
-<!--                    </div>-->
-<!--                    {% endfor %}-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
+                    {% for post in site.posts limit: site.post_limit %}
+                    <div class="col-xs-12 col-md-4 my-2">
+                        <div class="card pa-2">
+                            <a href="{{ post.url | prepend: site.baseurl }}">
+                                <img ci-src="{{post.image}}" ratio="1.5" height="200"
+                                     alt="Image: {{post.title}}" class="card-img-top">
+                            </a>
+                            <div class="card-body">
+                                <h5 class="card-title">{{ post.title }}</h5>
+                                <p class="card-text">
+                                    <small class="text-muted">{% include date.html date=post.date %}</small>
+                                </p>
+                                <a class="card-link" href="{{ post.url | prepend: site.baseurl }}">Lire l'article</a>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+                <div class="row pt-2">
+                    <div class="col">
+                        <a class="btn btn-block pa-2 btn-dark" href="{{ site.baseurl }}/articles/">En voir plus...</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col main content-panel">
+            <div class="articles">
+                <h2>Les catégories</h2>
+
+                <div class="row align-items-center">
+                    {% for category in site.categories %}
+                    <div class="col-6 col-md text-center">
+                        <a class="category-link" href="/categories#{{category | first}}-ref">{{category | first}}</a>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
